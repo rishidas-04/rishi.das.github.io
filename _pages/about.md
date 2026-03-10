@@ -1,7 +1,18 @@
+---
+permalink: /
+title: "Rishi Das"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
 
-I am a PhD student in Mathematics currently enrolled in a joint PhD program between Indian Institute of Technology Bombay (India) and Monash University (Australia). I did my Masters in Pure Mathematics with specialisation in Abstract Harmonic Hnalysis and Fourier Analysis from Ballygunge Science College. 
+I am a PhD student in Mathematics currently enrolled in a joint PhD program between 
+[Indian Institute of Technology Bombay](https://www.iitb.ac.in) (India) and 
+[Monash University](https://www.monash.edu) (Australia). I did my Masters in Pure Mathematics with specialisation in Abstract Harmonic Hnalysis and Fourier Analysis from Ballygunge Science College.
 
 Currently my research focuses on numerical analysis of partial differential equations, particularly:
+
 - Mixed finite element methods
 - Operator preconditioning
 - Nonlinear PDEs
