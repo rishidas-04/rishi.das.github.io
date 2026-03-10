@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Partial Differential Equations (MA 515)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Instructor"
+permalink: /teaching/pde-iitb-2024
+venue: "Indian Institute of Technology Bombay"
+date: 2024-08-01
+location: "Mumbai, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Course Instructor: **Prof. Sivaji Ganesh Sista**
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Semester: **Autumn 2024–25**
